@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Leo\\Downloads\\my arq\\CSE325\\week02\\ASP.NET-course\\MyNewApp\\MyNewApp.csproj": {}
+    "C:\\Users\\User\\OneDrive\\Documentos\\BYU-I\\CSE325\\week02\\ASP.NET-course\\MyNewApp\\MyNewApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Leo\\Downloads\\my arq\\CSE325\\week02\\ASP.NET-course\\MyNewApp\\MyNewApp.csproj": {
+    "C:\\Users\\User\\OneDrive\\Documentos\\BYU-I\\CSE325\\week02\\ASP.NET-course\\MyNewApp\\MyNewApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Leo\\Downloads\\my arq\\CSE325\\week02\\ASP.NET-course\\MyNewApp\\MyNewApp.csproj",
+        "projectUniqueName": "C:\\Users\\User\\OneDrive\\Documentos\\BYU-I\\CSE325\\week02\\ASP.NET-course\\MyNewApp\\MyNewApp.csproj",
         "projectName": "MyNewApp",
-        "projectPath": "C:\\Users\\Leo\\Downloads\\my arq\\CSE325\\week02\\ASP.NET-course\\MyNewApp\\MyNewApp.csproj",
-        "packagesPath": "C:\\Users\\Leo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Leo\\Downloads\\my arq\\CSE325\\week02\\ASP.NET-course\\MyNewApp\\obj\\",
+        "projectPath": "C:\\Users\\User\\OneDrive\\Documentos\\BYU-I\\CSE325\\week02\\ASP.NET-course\\MyNewApp\\MyNewApp.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\User\\OneDrive\\Documentos\\BYU-I\\CSE325\\week02\\ASP.NET-course\\MyNewApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Leo\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -37,7 +37,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
         "net8.0": {
@@ -61,7 +62,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.415/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.306/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

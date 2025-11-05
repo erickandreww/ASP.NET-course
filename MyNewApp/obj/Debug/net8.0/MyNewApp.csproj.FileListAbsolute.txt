@@ -24,3 +24,31 @@ C:\Users\Leo\Downloads\my arq\CSE325\week02\ASP.NET-course\MyNewApp\obj\Debug\ne
 C:\Users\Leo\Downloads\my arq\CSE325\week02\ASP.NET-course\MyNewApp\obj\Debug\net8.0\MyNewApp.pdb
 C:\Users\Leo\Downloads\my arq\CSE325\week02\ASP.NET-course\MyNewApp\obj\Debug\net8.0\MyNewApp.genruntimeconfig.cache
 C:\Users\Leo\Downloads\my arq\CSE325\week02\ASP.NET-course\MyNewApp\obj\Debug\net8.0\ref\MyNewApp.dll
+C:\Users\User\OneDrive\Documentos\BYU-I\CSE325\week02\ASP.NET-course\MyNewApp\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\User\OneDrive\Documentos\BYU-I\CSE325\week02\ASP.NET-course\MyNewApp\bin\Debug\net8.0\appsettings.json
+C:\Users\User\OneDrive\Documentos\BYU-I\CSE325\week02\ASP.NET-course\MyNewApp\bin\Debug\net8.0\MyNewApp.staticwebassets.endpoints.json
+C:\Users\User\OneDrive\Documentos\BYU-I\CSE325\week02\ASP.NET-course\MyNewApp\bin\Debug\net8.0\MyNewApp.exe
+C:\Users\User\OneDrive\Documentos\BYU-I\CSE325\week02\ASP.NET-course\MyNewApp\bin\Debug\net8.0\MyNewApp.deps.json
+C:\Users\User\OneDrive\Documentos\BYU-I\CSE325\week02\ASP.NET-course\MyNewApp\bin\Debug\net8.0\MyNewApp.runtimeconfig.json
+C:\Users\User\OneDrive\Documentos\BYU-I\CSE325\week02\ASP.NET-course\MyNewApp\bin\Debug\net8.0\MyNewApp.dll
+C:\Users\User\OneDrive\Documentos\BYU-I\CSE325\week02\ASP.NET-course\MyNewApp\bin\Debug\net8.0\MyNewApp.pdb
+C:\Users\User\OneDrive\Documentos\BYU-I\CSE325\week02\ASP.NET-course\MyNewApp\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\User\OneDrive\Documentos\BYU-I\CSE325\week02\ASP.NET-course\MyNewApp\obj\Debug\net8.0\MyNewApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Documentos\BYU-I\CSE325\week02\ASP.NET-course\MyNewApp\obj\Debug\net8.0\MyNewApp.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Documentos\BYU-I\CSE325\week02\ASP.NET-course\MyNewApp\obj\Debug\net8.0\MyNewApp.AssemblyInfo.cs
+C:\Users\User\OneDrive\Documentos\BYU-I\CSE325\week02\ASP.NET-course\MyNewApp\obj\Debug\net8.0\MyNewApp.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Documentos\BYU-I\CSE325\week02\ASP.NET-course\MyNewApp\obj\Debug\net8.0\MyNewApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\OneDrive\Documentos\BYU-I\CSE325\week02\ASP.NET-course\MyNewApp\obj\Debug\net8.0\MyNewApp.sourcelink.json
+C:\Users\User\OneDrive\Documentos\BYU-I\CSE325\week02\ASP.NET-course\MyNewApp\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\User\OneDrive\Documentos\BYU-I\CSE325\week02\ASP.NET-course\MyNewApp\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\User\OneDrive\Documentos\BYU-I\CSE325\week02\ASP.NET-course\MyNewApp\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\User\OneDrive\Documentos\BYU-I\CSE325\week02\ASP.NET-course\MyNewApp\obj\Debug\net8.0\scopedcss\bundle\MyNewApp.styles.css
+C:\Users\User\OneDrive\Documentos\BYU-I\CSE325\week02\ASP.NET-course\MyNewApp\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\User\OneDrive\Documentos\BYU-I\CSE325\week02\ASP.NET-course\MyNewApp\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\User\OneDrive\Documentos\BYU-I\CSE325\week02\ASP.NET-course\MyNewApp\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\User\OneDrive\Documentos\BYU-I\CSE325\week02\ASP.NET-course\MyNewApp\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\User\OneDrive\Documentos\BYU-I\CSE325\week02\ASP.NET-course\MyNewApp\obj\Debug\net8.0\MyNewApp.dll
+C:\Users\User\OneDrive\Documentos\BYU-I\CSE325\week02\ASP.NET-course\MyNewApp\obj\Debug\net8.0\refint\MyNewApp.dll
+C:\Users\User\OneDrive\Documentos\BYU-I\CSE325\week02\ASP.NET-course\MyNewApp\obj\Debug\net8.0\MyNewApp.pdb
+C:\Users\User\OneDrive\Documentos\BYU-I\CSE325\week02\ASP.NET-course\MyNewApp\obj\Debug\net8.0\MyNewApp.genruntimeconfig.cache
+C:\Users\User\OneDrive\Documentos\BYU-I\CSE325\week02\ASP.NET-course\MyNewApp\obj\Debug\net8.0\ref\MyNewApp.dll
